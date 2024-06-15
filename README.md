@@ -3,7 +3,7 @@
 ## Background
 Users wanted more intelligent search capabilities where users could type in hiragana, katakana, Kanjis or various combinations of it and still get relevant results.
 - Japanese token dictionary `ipadic` is powerful but limited in figuring out relevant kanjis.
-Google-backed dictionary `mozc`` is more powerful and does Kanji translations based on context.
+Google-backed dictionary `mozc` is more powerful and does Kanji translations based on context.
 - This project aims to return a combination of
   - User-typed search keywords as is.
   - Search keywords converted to Hiragana. (Only katakana keywords are converted to hiraganas)
